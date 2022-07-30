@@ -1,2 +1,2 @@
-# css-modules-postprocessor-plugin
- A Webpack plugin to postprocess HTML with CSS modules
+## css-modules-postprocessor-plugin
+A Webpack plugin to postprocess HTML with CSS modules. Requires posthtml and posthtml-css-modules for postprocessing, and is made to work with postcss-loader, postcss-modules and html-webpack-plugin, so that modules don't have to be pre-generated before Webpack build process.
